@@ -1,0 +1,1 @@
+ALTER TABLE "asset" ALTER COLUMN "is_approved" SET DATA TYPE text;
